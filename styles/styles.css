@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+  font-family: "Work Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400px;
+  font-style: normal;
+  /* background-color: aqua; */
+    max-width: 100%;
+}
+header{
+    max-width: 100%;
+    background-color:antiquewhite;
+    width: 1920 ;
+    height: 1000px;
+}
+.menu-item{
+    list-style: none;
+}
+.list{
+margin-right: 40px;
+}
+.list a{
+    text-decoration: none;
+    cursor: pointer;
+    font-size: 20px;
+    color: black;
+}
+.list a:hover{
+    border: 1px solid green;
+    border-radius: 5px;
+    background-color: chartreuse;
+}
+.navbar{
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 100px;
+
+}
+.header-font{
+    text-align: center;
+}
+.header-font h1{
+    font-size: 64px;
+    margin-top: 20px;
+}
+.header-font p{
+    font-size: 16px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.banner img{
+    width: 1000px;
+    height: 500px;
+    margin: 50px 150px 50px 150px;
+    align-items: center;
+    justify-content: center;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.display-flex{
+    display: flex;
+}
+.btn{
+    border: 1px solid;
+    border-radius: 5px;
+    background-color: orange;
+    color: #ffffff;
+    width: 180px;
+    height: 64px;
+    font-size: 20px;
+    font-weight: semibold;
+    cursor: pointer;
+}
