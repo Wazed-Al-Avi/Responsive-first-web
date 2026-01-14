@@ -149,6 +149,37 @@ margin-right: 40px;
 .card p{
 padding: 3px 32px 10px 40px;
 }
+.footer-info{
+    text-align: center;
+    margin-top: 172px;
+}
+.footer-info p{
+    margin-top: 24px;
+}
+.footer-img{
+    padding: 50px 300px 130px 150px;
+    gap: 50px;
+    align-items: center;
+    max-width: 100%;
+}
+.footer-img img{
+  height: 60px;
+  width: 180px;
+  /* border: 1px red solid; */
+}
+.copyright{
+    width: 1140px;
+    height: 100px;
+    background-color: antiquewhite;
+    margin: 0 300px 216px 150px;
+}
+.copyright p{
+    text-align: center;
+    font-size: 20px;
+    padding: 39px 250px;
+}
+
+
 
 
 
